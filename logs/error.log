@@ -1,0 +1,11 @@
+[2026-02-24 15:27:39] ERROR GET /api/insights - Insight is not defined
+[2026-02-24 15:28:42] ERROR GET /api/insights - Insight is not defined
+[2026-02-24 15:31:06] ERROR GET /api/insights - Insight is not defined
+[2026-02-24 15:36:49] ERROR GET /api/insights - insightService.getInsight is not a function
+[2026-02-24 15:36:53] ERROR GET /api/insights - insightService.getInsight is not a function
+[2026-02-24 15:37:32] ERROR GET /api/insights - Insight is not defined
+[2026-02-24 15:38:26] ERROR GET /api/insights - Insight is not defined
+[2026-02-24 16:33:08] ERROR GET /api/insight?impact=%22%22 - Insight is not defined
+[2026-02-24 20:13:56] ERROR GET /api/analytic/country-stats - Insight is not defined
+[2026-02-24 20:14:05] ERROR GET /api/analytic/country-stats - Insight is not defined
+[2026-02-24 20:14:56] ERROR GET /api/analytic/likelihood-relevance - Insight is not defined
